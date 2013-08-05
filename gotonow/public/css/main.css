@@ -1,0 +1,13 @@
+html, body { width: 600px; }
+
+* { border-radius: 5px; }
+
+#wrapper { margin-top: 20px; }
+
+#addurl { width: 500px; margin: 0 auto; text-align: middle; margin-bottom: 20px; }
+#addurl input { width: 100%; border: 2px solid black; padding: 10px; }
+#addurl #url {  margin-bottom: 10px; }
+#addurl #submit { width: 524px; }
+
+p { width: 500px; margin: 0 auto; font: bold 16px Helvetica; }
+
